@@ -10,5 +10,7 @@ it is intended as a basic model of how to write a good script from the perspecti
 
 also added *uncompleted* R and Python scripts for Tuesday's and Wednesday's classes 
 
+also added *uncompleted* R Markdown and Jupyter Notebook files from Friday's class
+
 Note: if you did not attend code camp, this repo contains all lecture handouts and script/markdown files from classes.\
 You can download this material and work through it yourself. All scripts are commented.
