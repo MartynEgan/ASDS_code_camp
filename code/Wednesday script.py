@@ -165,7 +165,7 @@ print(data_frame)
 # important difference between Python and R is the concept of 
 # *methods*. 
 
-# In R, every function is called the same way: the nameof the 
+# In R, every function is called the same way: the name of the 
 # function is followed by round brackets, and the *arguments*
 # of the function are placed inside the brackets. 
 
@@ -261,7 +261,7 @@ a_function(-5)
 # We use the matplotlib library in Python to provide graphical 
 # capabilities, aliased as "plt". 
 
-# Below, we create a simple line plotbof the number of seats won by 
+# Below, we create a simple line plot of the number of seats won by 
 # the leading party at each GE since 1992. Note how we build up our 
 # plot in stepwise fashion: we begin with a call to the plot() function, 
 # in which we specify our x and y axes, taking advantage of *positional* 
